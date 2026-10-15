@@ -27,6 +27,7 @@ Antes de me tornar independente, fui um dos dois desenvolvedores que construíra
 ### [Vistoriador Online](https://www.vistoriadoronline.com.br/) · no ar desde 2024
 
 Plataforma B2C de laudos de vistoria veicular, construída sozinho para um cliente — **mais de 63 mil laudos vendidos**. A versão 1 roda em Bubble, com integrações de nota fiscal (Focus NFe) e pagamentos (Efí). Hoje estou reconstruindo em código (v2), com portais de administrador, cliente e afiliado.
+
 [Estudo de caso →](https://silviomonteiro.dev/pt/projetos/vistoriador-online)
 
 ### Lead Engine · em produção (ferramenta interna)
@@ -36,11 +37,13 @@ Ferramenta interna e administrativa do OAUTOVERSO, minha plataforma automotiva p
 ### [Vamo Ensaiar](https://www.vamoensaiar.com/) · em andamento
 
 SaaS que conecta músicos a estúdios de ensaio: busca de estúdios, disponibilidade em tempo real, reservas e gestão de salas e agendas. Estratégia de produto, arquitetura, UX e desenvolvimento full stack.
+
 Next.js · TypeScript · Supabase · PostgreSQL · Zod — [estudo de caso →](https://silviomonteiro.dev/pt/projetos/vamo-ensaiar)
 
 ### [Elage Advocacia](https://elage.adv.br/) · concluído
 
 Site institucional de um escritório de advocacia: site estático de página única, rápido e acessível, com design system baseado na identidade visual e deploy automático a cada merge.
+
 Astro · TypeScript · Tailwind CSS · GitHub Actions — [estudo de caso →](https://silviomonteiro.dev/pt/projetos/elage-advocacia)
 
 Mais em **[silviomonteiro.dev/pt/projetos](https://silviomonteiro.dev/pt/projetos)**.

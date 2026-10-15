@@ -27,6 +27,7 @@ Before going independent, I was one of two developers who built a personal finan
 ### [Vistoriador Online](https://www.vistoriadoronline.com.br/) · live since 2024
 
 B2C vehicle inspection report platform, built single-handedly for a client — **63,000+ reports sold**. Version 1 runs on Bubble with e-invoicing (Focus NFe) and payment (Efí) integrations. I'm now rebuilding it in code (v2) with admin, customer and affiliate portals.
+
 [Case study →](https://silviomonteiro.dev/en/projects/vistoriador-online)
 
 ### Lead Engine · in production (internal tool)
@@ -36,11 +37,13 @@ Internal admin tool at OAUTOVERSO, my own automotive platform: a Python pipeline
 ### [Vamo Ensaiar](https://www.vamoensaiar.com/) · in progress
 
 SaaS that connects musicians with rehearsal studios: studio search, real-time availability, bookings, and room/schedule management. Product strategy, architecture, UX and full stack development.
+
 Next.js · TypeScript · Supabase · PostgreSQL · Zod — [case study →](https://silviomonteiro.dev/en/projects/vamo-ensaiar)
 
 ### [Elage Advocacia](https://elage.adv.br/) · completed
 
 Institutional website for a law firm: a fast, accessible single-page static site with a design system built from the brand identity and automatic deploys on every merge.
+
 Astro · TypeScript · Tailwind CSS · GitHub Actions — [case study →](https://silviomonteiro.dev/en/projects/elage-advocacia)
 
 More at **[silviomonteiro.dev/en/projects](https://silviomonteiro.dev/en/projects)**.
